@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=320116,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42c01e,mp4a.40.2"
+https://vootvideo.akamaized.net/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_e8k9vd8b/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1523260857~exp=1523347257~acl=/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_*~hmac=81ebcee34ef181dbd2481949a720368302043a3362a2e40bcf9116ce4fe6e1b8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=464116,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42c01e,mp4a.40.2"
+https://vootvideo.akamaized.net/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_u0ic780u/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1523260857~exp=1523347257~acl=/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_*~hmac=81ebcee34ef181dbd2481949a720368302043a3362a2e40bcf9116ce4fe6e1b8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=663390,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42c01e,mp4a.40.2"
+https://vootvideo.akamaized.net/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_fc6qgto2/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1523260857~exp=1523347257~acl=/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_*~hmac=81ebcee34ef181dbd2481949a720368302043a3362a2e40bcf9116ce4fe6e1b8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=953726,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2"
+https://vootvideo.akamaized.net/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_pbpdxu16/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1523260857~exp=1523347257~acl=/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_*~hmac=81ebcee34ef181dbd2481949a720368302043a3362a2e40bcf9116ce4fe6e1b8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64001,CODECS="mp4a.40.2"
+https://vootvideo.akamaized.net/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_zqpxhedz/name/a.mp4/index.m3u8/index-a1.m3u8?__hdnea__=st=1523260857~exp=1523347257~acl=/s/enc/fhls/p/1982551/sp/198255100/serveFlavor/entryId/0_ho72wwjb/v/2/pv/1/ev/11/flavorId/0_*~hmac=81ebcee34ef181dbd2481949a720368302043a3362a2e40bcf9116ce4fe6e1b8
+
